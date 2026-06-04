@@ -1,0 +1,13 @@
+v Aan het begin van een speelsessie wordt duidelijk gemaakt wat de goal van de game is.
+
+v De speler weet ten alle tijden wat van hem verwacht wordt om vooruitgang te boeken richting de goal.
+
+v De speler heeft ten alle tijden enige indicatie over zijn progressie richting de goal.
+
+v De speler moet een speelsessie kunnen winnen door de goal te behalen.
+
+v De speler moet een speelsessie kunnen verliezen door de goal niet te behalen.
+
+v De uitkomst (win/lose) moet duidelijk gecommuniceerd worden naar de speler.
+
+v (Extra criteria) De speler kan op een bedoelde alternatieve manier de goal behalen.

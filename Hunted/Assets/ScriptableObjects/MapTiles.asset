@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d8c4691c9617474aa310b62b4999552, type: 3}
+  m_Name: MapTiles
+  m_EditorClassIdentifier: Assembly-CSharp::MapTiles
+  groundTiles:
+  - tile: {fileID: 11400000, guid: adc415bf096866940bda4d4520da557c, type: 2}
+    weight: 1
+  dirtTiles: []
+  hillWallTiles: []
+  shoreTiles:
+  - {fileID: 11400000, guid: 4c3e667f50dc2004a9530523580390c9, type: 2}
+  oceanWaterTiles:
+  - tile: {fileID: 11400000, guid: 7ab82092cbcfd4242887dfd57ef8842b, type: 2}
+    weight: 1
+  - tile: {fileID: 11400000, guid: 51cd4d78f308f8a4cb892748e700cc6b, type: 2}
+    weight: 1
+  - tile: {fileID: 11400000, guid: 593a4b2c0d7314a4190904ee97c809d3, type: 2}
+    weight: 1
+  - tile: {fileID: 11400000, guid: b3c336fa04385ed44a13328f9df59f45, type: 2}
+    weight: 1
+  - tile: {fileID: 11400000, guid: 165d2616ae85c094984d577e2bfb91f1, type: 2}
+    weight: 1
+  - tile: {fileID: 11400000, guid: 80a2950f239280a429dcdd5e29292d97, type: 2}
+    weight: 1
+  - tile: {fileID: 11400000, guid: 099a7341d7195de40917474309d0ff58, type: 2}
+    weight: 20
+  - tile: {fileID: 11400000, guid: 24d6e5ed1e149a741abd18c5c43fd729, type: 2}
+    weight: 20

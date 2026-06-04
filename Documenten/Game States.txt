@@ -1,0 +1,9 @@
+v De game start op in bepaalde game state waar de speler in alle rust de volgende game state kan bepalen. (Een Menu bijvoorbeeld)
+
+v De speler kan na een speelsessie een nieuwe speelsessie starten zonder het spel opnieuw op te hoeven opstarten.
+
+v Na (en of tijdens) een speelsessie kan de speler terug naar het “menu”.
+
+v (Extra criteria) Iedere game flow state heeft dezelfde look & feel, passende bij de gameplay.
+
+v (Extra criteria) Er is een game state aanwezig waar de speler meer informatie kan krijgen over het spel.

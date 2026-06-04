@@ -1,0 +1,11 @@
+v Een passende en unieke naam voor de game (Geen “Reusable Components”, “Zombie Game”, “Dungeon Crawler” of iets dergelijks)
+
+v Één of meerdere in-game screenshots
+
+v Één beschrijving van de game voor bij de screenshot(s), vertel over de indrukwekkende content in je game
+
+v Code en evt in-engine development screenshots. Hierbij ook een passende beschrijving
+
+v Een schermopname van minimaal 30 seconde, gefocust op de meest indrukwekkende gameplay. (Tip: maak dit een trailer met lichte editing)
+
+v Een download-link naar de game’s .exe (Windows build) of een link naar een online-speelbare versie van de game (met een Unity WebGL build).

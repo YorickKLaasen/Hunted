@@ -1,0 +1,11 @@
+v De controls worden op een duidelijke manier gecommuniceerd naar de speler.
+
+v De speler kan op een prettige manier de main mechanics leren beheersen.!!!
+
+v Er zijn geen bugs aanwezig waardoor het spel herstart moet worden.
+
+v Er zijn geen bugs aanwezig die het plezier van de speler negatief beïnvloeden.
+
+v (Extra criteria) De moeilijkheidsgraad van de game bouwt geleidelijk op.
+
+v (Extra criteria) De game biedt enige vorm van replayability.

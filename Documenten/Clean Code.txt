@@ -1,0 +1,52 @@
+Clean Code
+
+Clean Code Unity afspraken
+
+v Gebruik van [SerializeField] om Fields aanpasbaar te maken in de Inspector
+
+v Geen gebruik gemaakt van tags!
+
+v Layers worden correct toegepast (geen hard coded comparisons)
+
+v Hierarchy is netjes overzichtelijk
+
+v Alle GameObjecten in de Hiararchy hebben een beschrijvende naam
+
+
+Clean Code C#
+
+v PascalCasing en camelCasing zijn goed en consistent toegepast
+
+v Lokale variables zijn indien mogelijk toegepast (Niet alles hoeft een Field te zijn)
+
+v Geen gebruik gemaakt van if-ceptions
+
+v Niks is hard coded
+
+v Beschrijvende variable namen
+
+v Geen string based comparisons
+
+v Caching van variables zijn indien mogelijk toegepast
+
+v Geen public Fields (Encapsulation)
+
+v Genoeg nuttige comments en documentatie (+- 30%)
+
+v Geen onnodige gebruik gemaakt van static!
+
+o Singleton’s met goede beargumentatie zijn toegestaan
+
+v Schone Unity Event Functions zoals de Update functie (Alleen function calls)
+
+v Korte Methods (Goed leesbaar op 1 scherm)
+
+v Methods hebben maar één functie
+
+v Logische volgorde van Methods (Belangrijkste bovenaan, zoals de Unity Event Functions)
+
+v Logische volgorde van Class members (Fields->Properties->Constructors->Methods)
+
+v (Extra criteria) Overload functies toegevoegd
+
+v (Extra criteria) Er wordt gebruik gemaakt van namespaces

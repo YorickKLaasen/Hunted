@@ -2,7 +2,7 @@
 
 public interface IMovement
 {
-    float movementSpeed {get; }
+   // float movementSpeed {get; }
 
     void Move(Vector2 pDirection);
 }

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c381eee52ff562b459b6d83d6dfc96fe, type: 3}
+  m_Name: HealthIncrease
+  m_EditorClassIdentifier: Assembly-CSharp::PowerUpSO
+  powerUpName: Health Buff
+  powerUpSprite: {fileID: -914207401, guid: 8592bd9b36792724fba318348413ed3d, type: 3}
+  powerUpDescription: Increases Health by +10%
+  prefab: {fileID: 123106121442635030, guid: d9c0768e9b33ea94fb975e863169b246, type: 3}

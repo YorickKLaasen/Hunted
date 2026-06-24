@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc4c0794ea9e9554c8aa9d9a53df47de, type: 3}
+  m_Name: Desert Eagle
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponDataSO
+  weaponName: Desert Eagle
+  icon: {fileID: -2732932394603600215, guid: 91f53cebbe195514aaf73e092639d279, type: 3}
+  weaponPrefab: {fileID: 3569023180411388609, guid: 52b7527b541972a48b7cfb91c52b2b0e, type: 3}
+  bulletPrefab: {fileID: 1754852823555760316, guid: 91ffc5ece5520d641941989e6fa83c7d, type: 3}
+  weaponType: 0
+  weaponRarity: 3
+  damage: 7
+  critChance: 10
+  fireRate: 3
+  attackRange: 15
+  noiseValue: 2
+  magazineSize: 7
+  reloadTime: 0.7
+  goldSprite: {fileID: 1187295229340035686, guid: 1c6ed726cda7f564da8a773d33b7a0ce, type: 3}
+  enchantedSprite: {fileID: 8603036931909914935, guid: 2aa288edf67851d4ebeeeb5b699f9079, type: 3}
+  randomSprite: {fileID: -2584426561259417520, guid: 65faa9505a30ac84ab0960ce9c9a5a45, type: 3}
+  fierySprite: {fileID: -427142187846668893, guid: 5236649848ceec142ad9af4c52c1ef7f, type: 3}
+  explosiveBullet: {fileID: 1754852823555760316, guid: bf33447670f8374449d869bc7b892903, type: 3}
+  fireBullet: {fileID: 1754852823555760316, guid: b12fe090a32d22c42a338765c6376ebb, type: 3}

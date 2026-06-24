@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc4c0794ea9e9554c8aa9d9a53df47de, type: 3}
+  m_Name: Sawed-Off
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponDataSO
+  weaponName: Sawed-Off
+  icon: {fileID: -8579183327345604899, guid: 91f53cebbe195514aaf73e092639d279, type: 3}
+  weaponPrefab: {fileID: 3569023180411388609, guid: 1c3a68d8d56f3af4f87c1ba11c002470, type: 3}
+  bulletPrefab: {fileID: 1754852823555760316, guid: 9d1f28236ba81804e9ca01adbbc61d49, type: 3}
+  weaponType: 4
+  weaponRarity: 1
+  damage: 1
+  critChance: 30
+  fireRate: 2.5
+  attackRange: 10
+  noiseValue: 3
+  magazineSize: 6
+  reloadTime: 1.8
+  goldSprite: {fileID: -7011470121214888994, guid: 1c6ed726cda7f564da8a773d33b7a0ce, type: 3}
+  enchantedSprite: {fileID: -801592918659132380, guid: 2aa288edf67851d4ebeeeb5b699f9079, type: 3}
+  randomSprite: {fileID: 2551282720857538136, guid: 65faa9505a30ac84ab0960ce9c9a5a45, type: 3}
+  fierySprite: {fileID: -4383352752879183345, guid: 5236649848ceec142ad9af4c52c1ef7f, type: 3}
+  explosiveBullet: {fileID: 1754852823555760316, guid: 2fa1487ec20fbe147a48eecccaae7622, type: 3}
+  fireBullet: {fileID: 1754852823555760316, guid: 33dfc1bee8a89624cae588cb996b7b48, type: 3}

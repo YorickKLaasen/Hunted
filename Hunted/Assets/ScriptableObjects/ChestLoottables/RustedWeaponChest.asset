@@ -14,6 +14,21 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ChestSO
   chestType: 0
   chestTier: 0
-  weaponLootTable: []
+  weaponLootTable:
+  - {fileID: 11400000, guid: 03f899fa7d863634fa5cf099ded404a0, type: 2}
+  - {fileID: 11400000, guid: 80197cb5b630674488e6afb0cedccf90, type: 2}
+  - {fileID: 11400000, guid: 55d076c56633f5b4e995e5e3646778f6, type: 2}
+  - {fileID: 11400000, guid: 6cd78f74a2b9a764ba5f9bc5005f1511, type: 2}
+  - {fileID: 11400000, guid: 5ae9eb34357706e468150ebe65df09b3, type: 2}
+  - {fileID: 11400000, guid: 8f794dfcf6016ca42adf45203c086802, type: 2}
+  - {fileID: 11400000, guid: f8d32b36b3f88ea41928fda1246602e7, type: 2}
+  - {fileID: 11400000, guid: be7c6d8cd333b4d45ab4b645e04b55b7, type: 2}
+  - {fileID: 11400000, guid: de8c4112d401ecd4f9aee4121e5bc685, type: 2}
+  - {fileID: 11400000, guid: bf7b4506f803a5b40a91ac9c8f9ee48e, type: 2}
+  - {fileID: 11400000, guid: 31da39a69f9472b46baf12462e2dc54d, type: 2}
+  - {fileID: 11400000, guid: 61da022e17fae344cb5d9436af8f742a, type: 2}
+  - {fileID: 11400000, guid: add262c23bec0d342abf48b6c18a1131, type: 2}
+  - {fileID: 11400000, guid: 5f291f2810332ec4f8bf423b15c45b6e, type: 2}
+  - {fileID: 11400000, guid: 2ddc8ed578d9b694db28bde6c859a3e7, type: 2}
   powerUpLootTable: []
   itemLootTable: []

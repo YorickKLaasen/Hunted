@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc4c0794ea9e9554c8aa9d9a53df47de, type: 3}
+  m_Name: AUG
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponDataSO
+  weaponName: AUG
+  icon: {fileID: -4649898303497191256, guid: 91f53cebbe195514aaf73e092639d279, type: 3}
+  weaponPrefab: {fileID: 3569023180411388609, guid: 367379fd5112b464b9a1c8d1ab6b0dd2, type: 3}
+  bulletPrefab: {fileID: 1754852823555760316, guid: 9d1f28236ba81804e9ca01adbbc61d49, type: 3}
+  weaponType: 2
+  weaponRarity: 2
+  damage: 5
+  critChance: 7
+  fireRate: 7
+  attackRange: 22
+  noiseValue: 1.5
+  magazineSize: 35
+  reloadTime: 1.5
+  goldSprite: {fileID: 5959365192872455551, guid: 1c6ed726cda7f564da8a773d33b7a0ce, type: 3}
+  enchantedSprite: {fileID: -7191796265237450760, guid: 2aa288edf67851d4ebeeeb5b699f9079, type: 3}
+  randomSprite: {fileID: -1913205098222707821, guid: 65faa9505a30ac84ab0960ce9c9a5a45, type: 3}
+  fierySprite: {fileID: -7290034671292158667, guid: 5236649848ceec142ad9af4c52c1ef7f, type: 3}
+  explosiveBullet: {fileID: 1754852823555760316, guid: 2fa1487ec20fbe147a48eecccaae7622, type: 3}
+  fireBullet: {fileID: 1754852823555760316, guid: 9f93dfed30caffc4aac96dd9088238fd, type: 3}

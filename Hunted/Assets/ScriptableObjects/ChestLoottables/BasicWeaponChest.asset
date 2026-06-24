@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43783e81cf338d24bb16265893411028, type: 3}
+  m_Name: BasicWeaponChest
+  m_EditorClassIdentifier: Assembly-CSharp::ChestSO
+  chestType: 0
+  chestTier: 1
+  weaponLootTable:
+  - {fileID: 11400000, guid: 55d076c56633f5b4e995e5e3646778f6, type: 2}
+  - {fileID: 11400000, guid: 6cd78f74a2b9a764ba5f9bc5005f1511, type: 2}
+  - {fileID: 11400000, guid: 55d076c56633f5b4e995e5e3646778f6, type: 2}
+  - {fileID: 11400000, guid: 5ae9eb34357706e468150ebe65df09b3, type: 2}
+  - {fileID: 11400000, guid: 8f794dfcf6016ca42adf45203c086802, type: 2}
+  - {fileID: 11400000, guid: f8d32b36b3f88ea41928fda1246602e7, type: 2}
+  - {fileID: 11400000, guid: 61da022e17fae344cb5d9436af8f742a, type: 2}
+  - {fileID: 11400000, guid: be7c6d8cd333b4d45ab4b645e04b55b7, type: 2}
+  - {fileID: 11400000, guid: de8c4112d401ecd4f9aee4121e5bc685, type: 2}
+  - {fileID: 11400000, guid: bf7b4506f803a5b40a91ac9c8f9ee48e, type: 2}
+  - {fileID: 11400000, guid: 31da39a69f9472b46baf12462e2dc54d, type: 2}
+  - {fileID: 11400000, guid: 61da022e17fae344cb5d9436af8f742a, type: 2}
+  - {fileID: 11400000, guid: 0876a0fb64d1ba44d8c816462d036d4d, type: 2}
+  - {fileID: 11400000, guid: add262c23bec0d342abf48b6c18a1131, type: 2}
+  - {fileID: 11400000, guid: 5f291f2810332ec4f8bf423b15c45b6e, type: 2}
+  - {fileID: 11400000, guid: ec2cd31eb8bae1046b00f993a892734f, type: 2}
+  - {fileID: 11400000, guid: 0a4ccf3609858e7498fe8e6c3b3024c5, type: 2}
+  - {fileID: 11400000, guid: 76cb0dd30bfa7db4bb9f5498256d4640, type: 2}
+  - {fileID: 11400000, guid: 00c3213f53ed60c448b17b83da826fca, type: 2}
+  powerUpLootTable: []
+  itemLootTable: []

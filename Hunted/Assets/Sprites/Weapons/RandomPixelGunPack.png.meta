@@ -1,0 +1,1443 @@
+fileFormatVersion: 2
+guid: 65faa9505a30ac84ab0960ce9c9a5a45
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8939961412887611457
+    second: RandomPixelGunPack_0
+  - first:
+      213: -5949020903852365029
+    second: RandomPixelGunPack_1
+  - first:
+      213: -7464590151434679976
+    second: RandomPixelGunPack_2
+  - first:
+      213: -7592313717068775186
+    second: RandomPixelGunPack_3
+  - first:
+      213: 9066234410189480468
+    second: RandomPixelGunPack_4
+  - first:
+      213: -62206108707759472
+    second: RandomPixelGunPack_5
+  - first:
+      213: 5393747875216489017
+    second: RandomPixelGunPack_6
+  - first:
+      213: -1051667195236903617
+    second: RandomPixelGunPack_7
+  - first:
+      213: -5676509287437794048
+    second: RandomPixelGunPack_8
+  - first:
+      213: -4411922257635113517
+    second: RandomPixelGunPack_9
+  - first:
+      213: 3113540034147069127
+    second: RandomPixelGunPack_10
+  - first:
+      213: -5888387109493432788
+    second: RandomPixelGunPack_11
+  - first:
+      213: -4983568933259063278
+    second: RandomPixelGunPack_12
+  - first:
+      213: 3192643133525800103
+    second: RandomPixelGunPack_13
+  - first:
+      213: -8956076716360897581
+    second: RandomPixelGunPack_14
+  - first:
+      213: -7604906287698117382
+    second: RandomPixelGunPack_15
+  - first:
+      213: -9069689901956404033
+    second: RandomPixelGunPack_16
+  - first:
+      213: 8530667752769615264
+    second: RandomPixelGunPack_17
+  - first:
+      213: -1913205098222707821
+    second: RandomPixelGunPack_18
+  - first:
+      213: -4901138719165346879
+    second: RandomPixelGunPack_19
+  - first:
+      213: 7273234728585387364
+    second: RandomPixelGunPack_20
+  - first:
+      213: 4849326334362253031
+    second: RandomPixelGunPack_21
+  - first:
+      213: -6816153054147111160
+    second: RandomPixelGunPack_22
+  - first:
+      213: -3125536191534361435
+    second: RandomPixelGunPack_23
+  - first:
+      213: -307582097378210816
+    second: RandomPixelGunPack_24
+  - first:
+      213: -9073740899014009915
+    second: RandomPixelGunPack_25
+  - first:
+      213: 5177623335288245764
+    second: RandomPixelGunPack_26
+  - first:
+      213: 3848576641468454208
+    second: RandomPixelGunPack_27
+  - first:
+      213: 4172517104567233096
+    second: RandomPixelGunPack_28
+  - first:
+      213: 2551282720857538136
+    second: RandomPixelGunPack_29
+  - first:
+      213: -927939786700761667
+    second: RandomPixelGunPack_30
+  - first:
+      213: -8968509952082179134
+    second: RandomPixelGunPack_31
+  - first:
+      213: 2558122055731061150
+    second: RandomPixelGunPack_32
+  - first:
+      213: -1965405770771827899
+    second: RandomPixelGunPack_33
+  - first:
+      213: 3999721923979680412
+    second: RandomPixelGunPack_34
+  - first:
+      213: -3866356233772714316
+    second: RandomPixelGunPack_35
+  - first:
+      213: -5359187019859222027
+    second: RandomPixelGunPack_36
+  - first:
+      213: -5029283692274947668
+    second: RandomPixelGunPack_37
+  - first:
+      213: 8868874317781139079
+    second: RandomPixelGunPack_38
+  - first:
+      213: 399299233428395008
+    second: RandomPixelGunPack_39
+  - first:
+      213: 5923832015141474759
+    second: RandomPixelGunPack_40
+  - first:
+      213: 3178290883517614776
+    second: RandomPixelGunPack_41
+  - first:
+      213: -2584426561259417520
+    second: RandomPixelGunPack_42
+  - first:
+      213: -5831126396834954385
+    second: RandomPixelGunPack_43
+  - first:
+      213: 635683571263167442
+    second: RandomPixelGunPack_44
+  - first:
+      213: 1145652629018857309
+    second: RandomPixelGunPack_45
+  - first:
+      213: -2299442033712545901
+    second: RandomPixelGunPack_46
+  - first:
+      213: 2767338124214352825
+    second: RandomPixelGunPack_47
+  - first:
+      213: 4086291178428644018
+    second: RandomPixelGunPack_48
+  - first:
+      213: -3205622487619250694
+    second: RandomPixelGunPack_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RandomPixelGunPack_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 389
+        width: 75
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1488dd00a8f111c70800000000000000
+      internalID: 8939961412887611457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RandomPixelGunPack_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 389
+        width: 79
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ba188d105d07da0800000000000000
+      internalID: -5949020903852365029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RandomPixelGunPack_2
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 390
+        width: 77
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8594bdd6ec2786890800000000000000
+      internalID: -7464590151434679976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RandomPixelGunPack_3
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 387
+        width: 57
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee04ace66eea2a690800000000000000
+      internalID: -7592313717068775186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RandomPixelGunPack_4
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 358
+        width: 54
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41264cd392cb1dd70800000000000000
+      internalID: 9066234410189480468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RandomPixelGunPack_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 358
+        width: 61
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a5d9bafdff22ff0800000000000000
+      internalID: -62206108707759472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RandomPixelGunPack_6
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 358
+        width: 91
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93afb4e7d117ada40800000000000000
+      internalID: 5393747875216489017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RandomPixelGunPack_7
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 358
+        width: 77
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3519f5024ab761f0800000000000000
+      internalID: -1051667195236903617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RandomPixelGunPack_8
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 326
+        width: 83
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0058016e0ecf831b0800000000000000
+      internalID: -5676509287437794048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RandomPixelGunPack_9
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 327
+        width: 79
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d505010514b5c2c0800000000000000
+      internalID: -4411922257635113517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RandomPixelGunPack_10
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 329
+        width: 62
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc2b413a24853b20800000000000000
+      internalID: 3113540034147069127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RandomPixelGunPack_11
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 330
+        width: 44
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e97a63f1f384ea0800000000000000
+      internalID: -5888387109493432788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RandomPixelGunPack_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 296
+        width: 63
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210db63957ec6dab0800000000000000
+      internalID: -4983568933259063278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RandomPixelGunPack_13
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 295
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4356cb30c8e4c20800000000000000
+      internalID: 3192643133525800103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RandomPixelGunPack_14
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 296
+        width: 61
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db69248daf95b380800000000000000
+      internalID: -8956076716360897581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RandomPixelGunPack_15
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 295
+        width: 60
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc7e9b1602f57690800000000000000
+      internalID: -7604906287698117382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RandomPixelGunPack_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 261
+        width: 63
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbce0f2661df12280800000000000000
+      internalID: -9069689901956404033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RandomPixelGunPack_17
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 262
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a576bcaf15036670800000000000000
+      internalID: 8530667752769615264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RandomPixelGunPack_18
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 262
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b18f9891ee275e0800000000000000
+      internalID: -1913205098222707821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RandomPixelGunPack_19
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 262
+        width: 57
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb8c316d48abfbb0800000000000000
+      internalID: -4901138719165346879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RandomPixelGunPack_20
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 229
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ddd5d4378bfe460800000000000000
+      internalID: 7273234728585387364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RandomPixelGunPack_21
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 229
+        width: 49
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6fb97bb944c4340800000000000000
+      internalID: 4849326334362253031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RandomPixelGunPack_22
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 231
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8071ed829e82861a0800000000000000
+      internalID: -6816153054147111160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RandomPixelGunPack_23
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 229
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a497f2c46ddf94d0800000000000000
+      internalID: -3125536191534361435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RandomPixelGunPack_24
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 198
+        width: 46
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c808a46bf3bbbf0800000000000000
+      internalID: -307582097378210816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RandomPixelGunPack_25
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 198
+        width: 53
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb16522ab8931280800000000000000
+      internalID: -9073740899014009915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RandomPixelGunPack_26
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 198
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e01a0cdfc9ad740800000000000000
+      internalID: 5177623335288245764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RandomPixelGunPack_27
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 201
+        width: 64
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045d7959014e86530800000000000000
+      internalID: 3848576641468454208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RandomPixelGunPack_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 169
+        width: 64
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84aa8fc1332c7e930800000000000000
+      internalID: 4172517104567233096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RandomPixelGunPack_29
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 170
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e3e4a0e1af76320800000000000000
+      internalID: 2551282720857538136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RandomPixelGunPack_30
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 168
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5dfb03eab4f13f0800000000000000
+      internalID: -927939786700761667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RandomPixelGunPack_31
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 169
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb069d37b3798380800000000000000
+      internalID: -8968509952082179134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RandomPixelGunPack_32
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 134
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9121f7c476408320800000000000000
+      internalID: 2558122055731061150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RandomPixelGunPack_33
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 136
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54374a95dd979b4e0800000000000000
+      internalID: -1965405770771827899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RandomPixelGunPack_34
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 135
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a962ff5edd18730800000000000000
+      internalID: 3999721923979680412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RandomPixelGunPack_35
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 133
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b63cde7d71f75ac0800000000000000
+      internalID: -3866356233772714316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RandomPixelGunPack_36
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 100
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f12864bcc750a5b0800000000000000
+      internalID: -5359187019859222027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RandomPixelGunPack_37
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 104
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9694fc025643ab0800000000000000
+      internalID: -5029283692274947668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RandomPixelGunPack_38
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 102
+        width: 54
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78efde4e332941b70800000000000000
+      internalID: 8868874317781139079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RandomPixelGunPack_39
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 103
+        width: 57
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004d59789889a8500800000000000000
+      internalID: 399299233428395008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RandomPixelGunPack_40
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 72
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1189bf4dda53250800000000000000
+      internalID: 5923832015141474759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RandomPixelGunPack_41
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 72
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba0ee028be8b1c20800000000000000
+      internalID: 3178290883517614776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RandomPixelGunPack_42
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 71
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0505c044cb5422cd0800000000000000
+      internalID: -2584426561259417520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RandomPixelGunPack_43
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 71
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63cf3ccf6da31fa0800000000000000
+      internalID: -5831126396834954385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RandomPixelGunPack_44
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 40
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db51be07d662d800800000000000000
+      internalID: 635683571263167442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RandomPixelGunPack_45
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 40
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f49a40ffc26ef00800000000000000
+      internalID: 1145652629018857309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RandomPixelGunPack_46
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 39
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f36fe37adb610e0800000000000000
+      internalID: -2299442033712545901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RandomPixelGunPack_47
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 41
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb313bac5f876620800000000000000
+      internalID: 2767338124214352825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RandomPixelGunPack_48
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 9
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba3d0b3d2c65b830800000000000000
+      internalID: 4086291178428644018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RandomPixelGunPack_49
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 8
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af55375e4575383d0800000000000000
+      internalID: -3205622487619250694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RandomPixelGunPack_0: 8939961412887611457
+      RandomPixelGunPack_1: -5949020903852365029
+      RandomPixelGunPack_10: 3113540034147069127
+      RandomPixelGunPack_11: -5888387109493432788
+      RandomPixelGunPack_12: -4983568933259063278
+      RandomPixelGunPack_13: 3192643133525800103
+      RandomPixelGunPack_14: -8956076716360897581
+      RandomPixelGunPack_15: -7604906287698117382
+      RandomPixelGunPack_16: -9069689901956404033
+      RandomPixelGunPack_17: 8530667752769615264
+      RandomPixelGunPack_18: -1913205098222707821
+      RandomPixelGunPack_19: -4901138719165346879
+      RandomPixelGunPack_2: -7464590151434679976
+      RandomPixelGunPack_20: 7273234728585387364
+      RandomPixelGunPack_21: 4849326334362253031
+      RandomPixelGunPack_22: -6816153054147111160
+      RandomPixelGunPack_23: -3125536191534361435
+      RandomPixelGunPack_24: -307582097378210816
+      RandomPixelGunPack_25: -9073740899014009915
+      RandomPixelGunPack_26: 5177623335288245764
+      RandomPixelGunPack_27: 3848576641468454208
+      RandomPixelGunPack_28: 4172517104567233096
+      RandomPixelGunPack_29: 2551282720857538136
+      RandomPixelGunPack_3: -7592313717068775186
+      RandomPixelGunPack_30: -927939786700761667
+      RandomPixelGunPack_31: -8968509952082179134
+      RandomPixelGunPack_32: 2558122055731061150
+      RandomPixelGunPack_33: -1965405770771827899
+      RandomPixelGunPack_34: 3999721923979680412
+      RandomPixelGunPack_35: -3866356233772714316
+      RandomPixelGunPack_36: -5359187019859222027
+      RandomPixelGunPack_37: -5029283692274947668
+      RandomPixelGunPack_38: 8868874317781139079
+      RandomPixelGunPack_39: 399299233428395008
+      RandomPixelGunPack_4: 9066234410189480468
+      RandomPixelGunPack_40: 5923832015141474759
+      RandomPixelGunPack_41: 3178290883517614776
+      RandomPixelGunPack_42: -2584426561259417520
+      RandomPixelGunPack_43: -5831126396834954385
+      RandomPixelGunPack_44: 635683571263167442
+      RandomPixelGunPack_45: 1145652629018857309
+      RandomPixelGunPack_46: -2299442033712545901
+      RandomPixelGunPack_47: 2767338124214352825
+      RandomPixelGunPack_48: 4086291178428644018
+      RandomPixelGunPack_49: -3205622487619250694
+      RandomPixelGunPack_5: -62206108707759472
+      RandomPixelGunPack_6: 5393747875216489017
+      RandomPixelGunPack_7: -1051667195236903617
+      RandomPixelGunPack_8: -5676509287437794048
+      RandomPixelGunPack_9: -4411922257635113517
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

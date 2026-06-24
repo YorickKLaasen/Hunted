@@ -1,0 +1,10 @@
+1. RustedChest wat lichter maken want is nu iets te donker.
+2. Mischien dat wapen mee beweegt met recoil toevoegen.
+3. Inventory HOtbar door de hele onderkant doen en dan reload UI er boven zetten.
+4. iets van een minimap om belangrijke dingen te laten zien.
+5. UI nog niet zo goed zichtbaar omdat het wit is.
+6. weapon modifiers die de stats increasen of randomizen
+7. kleine tutorial om de controls te laten zien.
+8. structures aan de game toevoegen.
+9. dat kogels door sommige muren heen kunnen schieten.
+10. 

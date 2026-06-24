@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc4c0794ea9e9554c8aa9d9a53df47de, type: 3}
+  m_Name: UMP
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponDataSO
+  weaponName: UMP
+  icon: {fileID: -5331706254834897635, guid: 91f53cebbe195514aaf73e092639d279, type: 3}
+  weaponPrefab: {fileID: 3569023180411388609, guid: b4266d34d9c237742ad4abb1dd6aaba1, type: 3}
+  bulletPrefab: {fileID: 1754852823555760316, guid: 9d1f28236ba81804e9ca01adbbc61d49, type: 3}
+  weaponType: 1
+  weaponRarity: 3
+  damage: 2
+  critChance: 2
+  fireRate: 15
+  attackRange: 8
+  noiseValue: 1.4
+  magazineSize: 25
+  reloadTime: 1.5
+  goldSprite: {fileID: -2563570627865061987, guid: 1c6ed726cda7f564da8a773d33b7a0ce, type: 3}
+  enchantedSprite: {fileID: 3157547725448093009, guid: 2aa288edf67851d4ebeeeb5b699f9079, type: 3}
+  randomSprite: {fileID: -3125536191534361435, guid: 65faa9505a30ac84ab0960ce9c9a5a45, type: 3}
+  fierySprite: {fileID: -3267138627196200166, guid: 5236649848ceec142ad9af4c52c1ef7f, type: 3}
+  explosiveBullet: {fileID: 1754852823555760316, guid: 2fa1487ec20fbe147a48eecccaae7622, type: 3}
+  fireBullet: {fileID: 1754852823555760316, guid: 9f93dfed30caffc4aac96dd9088238fd, type: 3}

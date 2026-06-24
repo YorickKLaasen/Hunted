@@ -4,12 +4,13 @@ public class PlayerController : MonoBehaviour
 {
     IPlayerInput _input;
     IMovement _movement;
+    public PlayerStats playerStats;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     private void Awake()
     {
         _input = GetComponent<KeyboardInput>();
         _input = GetComponent<IPlayerInput>();
-
+        playerStats = GetComponent<PlayerStats>();
         _movement = GetComponent<IMovement>();
         Debug.Log(_input);
         Debug.Log(_movement);

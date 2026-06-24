@@ -1,0 +1,1443 @@
+fileFormatVersion: 2
+guid: 1c6ed726cda7f564da8a773d33b7a0ce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1813516913270446513
+    second: GoldenPixelGunPack_0
+  - first:
+      213: -6484478839518172667
+    second: GoldenPixelGunPack_1
+  - first:
+      213: -3318513983127220896
+    second: GoldenPixelGunPack_2
+  - first:
+      213: 8447090575764578716
+    second: GoldenPixelGunPack_3
+  - first:
+      213: 1507665774822558801
+    second: GoldenPixelGunPack_4
+  - first:
+      213: -9046314176452286767
+    second: GoldenPixelGunPack_5
+  - first:
+      213: -8657651096366191546
+    second: GoldenPixelGunPack_6
+  - first:
+      213: 7864656941838250965
+    second: GoldenPixelGunPack_7
+  - first:
+      213: 170758003775996197
+    second: GoldenPixelGunPack_8
+  - first:
+      213: -3814961824719307016
+    second: GoldenPixelGunPack_9
+  - first:
+      213: -6026549049722439753
+    second: GoldenPixelGunPack_10
+  - first:
+      213: -6946251794065299682
+    second: GoldenPixelGunPack_11
+  - first:
+      213: -6415744026759301940
+    second: GoldenPixelGunPack_12
+  - first:
+      213: 3903470965005283323
+    second: GoldenPixelGunPack_13
+  - first:
+      213: 6623363781588379053
+    second: GoldenPixelGunPack_14
+  - first:
+      213: 6012636783084133149
+    second: GoldenPixelGunPack_15
+  - first:
+      213: -3775852007903805868
+    second: GoldenPixelGunPack_16
+  - first:
+      213: 7683172299346909336
+    second: GoldenPixelGunPack_17
+  - first:
+      213: 5959365192872455551
+    second: GoldenPixelGunPack_18
+  - first:
+      213: 4739807609633356949
+    second: GoldenPixelGunPack_19
+  - first:
+      213: 8096377129739152837
+    second: GoldenPixelGunPack_20
+  - first:
+      213: 8098935662485277379
+    second: GoldenPixelGunPack_21
+  - first:
+      213: 2497147455332909315
+    second: GoldenPixelGunPack_22
+  - first:
+      213: -2563570627865061987
+    second: GoldenPixelGunPack_23
+  - first:
+      213: 172798099336932139
+    second: GoldenPixelGunPack_24
+  - first:
+      213: -2537157386273745695
+    second: GoldenPixelGunPack_25
+  - first:
+      213: 2110867724965385011
+    second: GoldenPixelGunPack_26
+  - first:
+      213: 2019192672672533556
+    second: GoldenPixelGunPack_27
+  - first:
+      213: 1862053947380750513
+    second: GoldenPixelGunPack_28
+  - first:
+      213: -7011470121214888994
+    second: GoldenPixelGunPack_29
+  - first:
+      213: 6696474025990173247
+    second: GoldenPixelGunPack_30
+  - first:
+      213: 1180680772941093595
+    second: GoldenPixelGunPack_31
+  - first:
+      213: -5096539215727805429
+    second: GoldenPixelGunPack_32
+  - first:
+      213: -5704611189168100815
+    second: GoldenPixelGunPack_33
+  - first:
+      213: -7374968140051395071
+    second: GoldenPixelGunPack_34
+  - first:
+      213: 5300660859996503376
+    second: GoldenPixelGunPack_35
+  - first:
+      213: 2521200409821599021
+    second: GoldenPixelGunPack_36
+  - first:
+      213: -9151668305474500218
+    second: GoldenPixelGunPack_37
+  - first:
+      213: -7466674391861945775
+    second: GoldenPixelGunPack_38
+  - first:
+      213: 1758956118799088330
+    second: GoldenPixelGunPack_39
+  - first:
+      213: -3418650703510394587
+    second: GoldenPixelGunPack_40
+  - first:
+      213: -5717781734073270266
+    second: GoldenPixelGunPack_41
+  - first:
+      213: 1187295229340035686
+    second: GoldenPixelGunPack_42
+  - first:
+      213: -6689969499735652035
+    second: GoldenPixelGunPack_43
+  - first:
+      213: 9029249653965422835
+    second: GoldenPixelGunPack_44
+  - first:
+      213: 712721926623126269
+    second: GoldenPixelGunPack_45
+  - first:
+      213: 231881336208501170
+    second: GoldenPixelGunPack_46
+  - first:
+      213: 5638435607252893248
+    second: GoldenPixelGunPack_47
+  - first:
+      213: -5968056210835208167
+    second: GoldenPixelGunPack_48
+  - first:
+      213: -5173961767956659682
+    second: GoldenPixelGunPack_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GoldenPixelGunPack_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 389
+        width: 75
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f462a5ec9f715d6e0800000000000000
+      internalID: -1813516913270446513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenPixelGunPack_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 389
+        width: 79
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a6bf80ad08206a0800000000000000
+      internalID: -6484478839518172667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenPixelGunPack_2
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 390
+        width: 77
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d09855d1542f1d0800000000000000
+      internalID: -3318513983127220896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenPixelGunPack_3
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 387
+        width: 57
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c916ff1cf181a3570800000000000000
+      internalID: 8447090575764578716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenPixelGunPack_4
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 358
+        width: 54
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c0054c80e4ce410800000000000000
+      internalID: 1507665774822558801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenPixelGunPack_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 358
+        width: 61
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d62bf99f29057280800000000000000
+      internalID: -9046314176452286767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenPixelGunPack_6
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 358
+        width: 91
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c62d3b238d9d780800000000000000
+      internalID: -8657651096366191546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenPixelGunPack_7
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 358
+        width: 77
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d33492e1dfd42d60800000000000000
+      internalID: 7864656941838250965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenPixelGunPack_8
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 326
+        width: 83
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5218f9def77ae5200800000000000000
+      internalID: 170758003775996197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenPixelGunPack_9
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 327
+        width: 79
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fefde5de688e0bc0800000000000000
+      internalID: -3814961824719307016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenPixelGunPack_10
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 329
+        width: 62
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b773ddb1956d5ca0800000000000000
+      internalID: -6026549049722439753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenPixelGunPack_11
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 330
+        width: 44
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17615ecbc4f99f90800000000000000
+      internalID: -6946251794065299682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenPixelGunPack_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 296
+        width: 63
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc47d2bbcc2b6f6a0800000000000000
+      internalID: -6415744026759301940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenPixelGunPack_13
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 295
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bffe034492aeb2630800000000000000
+      internalID: 3903470965005283323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenPixelGunPack_14
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 296
+        width: 61
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da563cb644aeaeb50800000000000000
+      internalID: 6623363781588379053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenPixelGunPack_15
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 295
+        width: 60
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b5d234c4d217350800000000000000
+      internalID: 6012636783084133149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenPixelGunPack_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 261
+        width: 63
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45eb278aa9a799bc0800000000000000
+      internalID: -3775852007903805868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenPixelGunPack_17
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 262
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89891b2cf7c10aa60800000000000000
+      internalID: 7683172299346909336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenPixelGunPack_18
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 262
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d6dff911be3b250800000000000000
+      internalID: 5959365192872455551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenPixelGunPack_19
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 262
+        width: 57
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59cb3eb88ed27c140800000000000000
+      internalID: 4739807609633356949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenPixelGunPack_20
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 229
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cde2b16a1c1c5070800000000000000
+      internalID: 8096377129739152837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenPixelGunPack_21
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 229
+        width: 49
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca8d253313356070800000000000000
+      internalID: 8098935662485277379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenPixelGunPack_22
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 231
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30183e25166a7a220800000000000000
+      internalID: 2497147455332909315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenPixelGunPack_23
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 229
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d955a79a81e5c6cd0800000000000000
+      internalID: -2563570627865061987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenPixelGunPack_24
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 198
+        width: 46
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b27d0b4f6e56200800000000000000
+      internalID: 172798099336932139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenPixelGunPack_25
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 198
+        width: 53
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e415e3bcc43accd0800000000000000
+      internalID: -2537157386273745695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenPixelGunPack_26
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 198
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3331662130f4b4d10800000000000000
+      internalID: 2110867724965385011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenPixelGunPack_27
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 201
+        width: 64
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43cc7b3a90d950c10800000000000000
+      internalID: 2019192672672533556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenPixelGunPack_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 169
+        width: 64
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b85e36133857d910800000000000000
+      internalID: 1862053947380750513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenPixelGunPack_29
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 170
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3b8b7b21142be90800000000000000
+      internalID: -7011470121214888994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenPixelGunPack_30
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 168
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3236cea5a7aeec50800000000000000
+      internalID: 6696474025990173247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenPixelGunPack_31
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 169
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda994058ee926010800000000000000
+      internalID: 1180680772941093595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenPixelGunPack_32
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 134
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c32bef5947549b0800000000000000
+      internalID: -5096539215727805429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenPixelGunPack_33
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 136
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13aaae7095625d0b0800000000000000
+      internalID: -5704611189168100815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenPixelGunPack_34
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 135
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ec9660d89d6a990800000000000000
+      internalID: -7374968140051395071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenPixelGunPack_35
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 133
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d78e2d7fabf8940800000000000000
+      internalID: 5300660859996503376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenPixelGunPack_36
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 100
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d255cf23a6a1df220800000000000000
+      internalID: 2521200409821599021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenPixelGunPack_37
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 104
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689cdfde92ebef080800000000000000
+      internalID: -9151668305474500218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenPixelGunPack_38
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 102
+        width: 54
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a1093633b016890800000000000000
+      internalID: -7466674391861945775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenPixelGunPack_39
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 103
+        width: 57
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acaf48c4541196810800000000000000
+      internalID: 1758956118799088330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenPixelGunPack_40
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 72
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529af164c438e80d0800000000000000
+      internalID: -3418650703510394587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenPixelGunPack_41
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 72
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60088559ecb56a0b0800000000000000
+      internalID: -5717781734073270266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenPixelGunPack_42
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 71
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a245478be1a7010800000000000000
+      internalID: 1187295229340035686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenPixelGunPack_43
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 71
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d390f0a5f247823a0800000000000000
+      internalID: -6689969499735652035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenPixelGunPack_44
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 40
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f08de4a8b65e4d70800000000000000
+      internalID: 9029249653965422835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenPixelGunPack_45
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 40
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2e00ce0d814e900800000000000000
+      internalID: 712721926623126269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenPixelGunPack_46
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 39
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b920c2c8dec73300800000000000000
+      internalID: 231881336208501170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenPixelGunPack_47
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 41
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ef833af4fbf3e40800000000000000
+      internalID: 5638435607252893248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenPixelGunPack_48
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 9
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9188a911f743d2da0800000000000000
+      internalID: -5968056210835208167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenPixelGunPack_49
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 8
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12cd735f256238b0800000000000000
+      internalID: -5173961767956659682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GoldenPixelGunPack_0: -1813516913270446513
+      GoldenPixelGunPack_1: -6484478839518172667
+      GoldenPixelGunPack_10: -6026549049722439753
+      GoldenPixelGunPack_11: -6946251794065299682
+      GoldenPixelGunPack_12: -6415744026759301940
+      GoldenPixelGunPack_13: 3903470965005283323
+      GoldenPixelGunPack_14: 6623363781588379053
+      GoldenPixelGunPack_15: 6012636783084133149
+      GoldenPixelGunPack_16: -3775852007903805868
+      GoldenPixelGunPack_17: 7683172299346909336
+      GoldenPixelGunPack_18: 5959365192872455551
+      GoldenPixelGunPack_19: 4739807609633356949
+      GoldenPixelGunPack_2: -3318513983127220896
+      GoldenPixelGunPack_20: 8096377129739152837
+      GoldenPixelGunPack_21: 8098935662485277379
+      GoldenPixelGunPack_22: 2497147455332909315
+      GoldenPixelGunPack_23: -2563570627865061987
+      GoldenPixelGunPack_24: 172798099336932139
+      GoldenPixelGunPack_25: -2537157386273745695
+      GoldenPixelGunPack_26: 2110867724965385011
+      GoldenPixelGunPack_27: 2019192672672533556
+      GoldenPixelGunPack_28: 1862053947380750513
+      GoldenPixelGunPack_29: -7011470121214888994
+      GoldenPixelGunPack_3: 8447090575764578716
+      GoldenPixelGunPack_30: 6696474025990173247
+      GoldenPixelGunPack_31: 1180680772941093595
+      GoldenPixelGunPack_32: -5096539215727805429
+      GoldenPixelGunPack_33: -5704611189168100815
+      GoldenPixelGunPack_34: -7374968140051395071
+      GoldenPixelGunPack_35: 5300660859996503376
+      GoldenPixelGunPack_36: 2521200409821599021
+      GoldenPixelGunPack_37: -9151668305474500218
+      GoldenPixelGunPack_38: -7466674391861945775
+      GoldenPixelGunPack_39: 1758956118799088330
+      GoldenPixelGunPack_4: 1507665774822558801
+      GoldenPixelGunPack_40: -3418650703510394587
+      GoldenPixelGunPack_41: -5717781734073270266
+      GoldenPixelGunPack_42: 1187295229340035686
+      GoldenPixelGunPack_43: -6689969499735652035
+      GoldenPixelGunPack_44: 9029249653965422835
+      GoldenPixelGunPack_45: 712721926623126269
+      GoldenPixelGunPack_46: 231881336208501170
+      GoldenPixelGunPack_47: 5638435607252893248
+      GoldenPixelGunPack_48: -5968056210835208167
+      GoldenPixelGunPack_49: -5173961767956659682
+      GoldenPixelGunPack_5: -9046314176452286767
+      GoldenPixelGunPack_6: -8657651096366191546
+      GoldenPixelGunPack_7: 7864656941838250965
+      GoldenPixelGunPack_8: 170758003775996197
+      GoldenPixelGunPack_9: -3814961824719307016
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,7 +1,8 @@
 using System;
+using UnityEngine;
 
-[System.Serializable]
-public class WeaponLootEntry
+[CreateAssetMenu(menuName = "Weapons/LootEntry")]
+public class WeaponLootEntry : ScriptableObject
 {
     public WeaponDataSO weapon;
     public int weight;

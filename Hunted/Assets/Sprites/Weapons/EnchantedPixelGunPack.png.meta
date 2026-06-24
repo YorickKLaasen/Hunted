@@ -1,0 +1,1443 @@
+fileFormatVersion: 2
+guid: 2aa288edf67851d4ebeeeb5b699f9079
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -687840027429935281
+    second: EnchantedPixelGunPack_0
+  - first:
+      213: 5571448978750367117
+    second: EnchantedPixelGunPack_1
+  - first:
+      213: -7699842097469605959
+    second: EnchantedPixelGunPack_2
+  - first:
+      213: -7073535190963566965
+    second: EnchantedPixelGunPack_3
+  - first:
+      213: -4768691444177880406
+    second: EnchantedPixelGunPack_4
+  - first:
+      213: -5469553786131416969
+    second: EnchantedPixelGunPack_5
+  - first:
+      213: 6472815803219316072
+    second: EnchantedPixelGunPack_6
+  - first:
+      213: 2459599212716859148
+    second: EnchantedPixelGunPack_7
+  - first:
+      213: 4122060348792234846
+    second: EnchantedPixelGunPack_8
+  - first:
+      213: 4454771785661729550
+    second: EnchantedPixelGunPack_9
+  - first:
+      213: 5296151488240208266
+    second: EnchantedPixelGunPack_10
+  - first:
+      213: -6841753954149536610
+    second: EnchantedPixelGunPack_11
+  - first:
+      213: -9043963642013356735
+    second: EnchantedPixelGunPack_12
+  - first:
+      213: -2601839604625598701
+    second: EnchantedPixelGunPack_13
+  - first:
+      213: 3018773512521622879
+    second: EnchantedPixelGunPack_14
+  - first:
+      213: -7569939867415342487
+    second: EnchantedPixelGunPack_15
+  - first:
+      213: -8070287623191416975
+    second: EnchantedPixelGunPack_16
+  - first:
+      213: -4139746632576913758
+    second: EnchantedPixelGunPack_17
+  - first:
+      213: -7191796265237450760
+    second: EnchantedPixelGunPack_18
+  - first:
+      213: 5258003009290231004
+    second: EnchantedPixelGunPack_19
+  - first:
+      213: -3442212099521148369
+    second: EnchantedPixelGunPack_20
+  - first:
+      213: -1678726845525581498
+    second: EnchantedPixelGunPack_21
+  - first:
+      213: 5753306904733942574
+    second: EnchantedPixelGunPack_22
+  - first:
+      213: 3157547725448093009
+    second: EnchantedPixelGunPack_23
+  - first:
+      213: -236272649979864791
+    second: EnchantedPixelGunPack_24
+  - first:
+      213: 4425835946087211789
+    second: EnchantedPixelGunPack_25
+  - first:
+      213: -5102844809055975448
+    second: EnchantedPixelGunPack_26
+  - first:
+      213: -4528152168904465559
+    second: EnchantedPixelGunPack_27
+  - first:
+      213: 6879959480495952116
+    second: EnchantedPixelGunPack_28
+  - first:
+      213: -801592918659132380
+    second: EnchantedPixelGunPack_29
+  - first:
+      213: -1621355321516956544
+    second: EnchantedPixelGunPack_30
+  - first:
+      213: -3118982798783346417
+    second: EnchantedPixelGunPack_31
+  - first:
+      213: 2246951308880200146
+    second: EnchantedPixelGunPack_32
+  - first:
+      213: -8173289853962979509
+    second: EnchantedPixelGunPack_33
+  - first:
+      213: 3443588296124434091
+    second: EnchantedPixelGunPack_34
+  - first:
+      213: -7197975097686476009
+    second: EnchantedPixelGunPack_35
+  - first:
+      213: 1066130988698482322
+    second: EnchantedPixelGunPack_36
+  - first:
+      213: -2092025013600523800
+    second: EnchantedPixelGunPack_37
+  - first:
+      213: 4501726686616982282
+    second: EnchantedPixelGunPack_38
+  - first:
+      213: -8929382986230101973
+    second: EnchantedPixelGunPack_39
+  - first:
+      213: -4634951568437105526
+    second: EnchantedPixelGunPack_40
+  - first:
+      213: 5209490959681295886
+    second: EnchantedPixelGunPack_41
+  - first:
+      213: 8603036931909914935
+    second: EnchantedPixelGunPack_42
+  - first:
+      213: 6619272410493087787
+    second: EnchantedPixelGunPack_43
+  - first:
+      213: -3871979261676081384
+    second: EnchantedPixelGunPack_44
+  - first:
+      213: -4664771134919716504
+    second: EnchantedPixelGunPack_45
+  - first:
+      213: 3392656036481225597
+    second: EnchantedPixelGunPack_46
+  - first:
+      213: 8038967340417517942
+    second: EnchantedPixelGunPack_47
+  - first:
+      213: -6365343410531429298
+    second: EnchantedPixelGunPack_48
+  - first:
+      213: 8913875070623229828
+    second: EnchantedPixelGunPack_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EnchantedPixelGunPack_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 389
+        width: 75
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f476ebea32d4476f0800000000000000
+      internalID: -687840027429935281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchantedPixelGunPack_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 389
+        width: 79
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85e0aec353c15d40800000000000000
+      internalID: 5571448978750367117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchantedPixelGunPack_2
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 390
+        width: 77
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7b9b9686aa42590800000000000000
+      internalID: -7699842097469605959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchantedPixelGunPack_3
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 387
+        width: 57
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8644649831c5dd90800000000000000
+      internalID: -7073535190963566965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchantedPixelGunPack_4
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 358
+        width: 54
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa355aa56432ddb0800000000000000
+      internalID: -4768691444177880406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchantedPixelGunPack_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 358
+        width: 61
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7787eb97fcd3814b0800000000000000
+      internalID: -5469553786131416969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchantedPixelGunPack_6
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 358
+        width: 91
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d0c67bdaf04d950800000000000000
+      internalID: 6472815803219316072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchantedPixelGunPack_7
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 358
+        width: 77
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f91d3d370422220800000000000000
+      internalID: 2459599212716859148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchantedPixelGunPack_8
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 326
+        width: 83
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53eb703c00843930800000000000000
+      internalID: 4122060348792234846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchantedPixelGunPack_9
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 327
+        width: 79
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0bcccf265782dd30800000000000000
+      internalID: 4454771785661729550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchantedPixelGunPack_10
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 329
+        width: 62
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89c635e7b5bf7940800000000000000
+      internalID: 5296151488240208266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchantedPixelGunPack_11
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 330
+        width: 44
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9cea4227053d01a0800000000000000
+      internalID: -6841753954149536610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchantedPixelGunPack_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 296
+        width: 63
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14dee3c0cf26d7280800000000000000
+      internalID: -9043963642013356735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchantedPixelGunPack_13
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 295
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3179fbb2aa864ebd0800000000000000
+      internalID: -2601839604625598701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchantedPixelGunPack_14
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 296
+        width: 61
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55a537f386d4e920800000000000000
+      internalID: 3018773512521622879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchantedPixelGunPack_15
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 295
+        width: 60
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96214af3ccb22f690800000000000000
+      internalID: -7569939867415342487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchantedPixelGunPack_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 261
+        width: 63
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17fa1783a24900090800000000000000
+      internalID: -8070287623191416975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchantedPixelGunPack_17
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 262
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae2229fe5aac86c0800000000000000
+      internalID: -4139746632576913758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchantedPixelGunPack_18
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 262
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff6a89866b913c90800000000000000
+      internalID: -7191796265237450760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchantedPixelGunPack_19
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 262
+        width: 57
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdcddacf0ed28f840800000000000000
+      internalID: 5258003009290231004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchantedPixelGunPack_20
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 229
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a8d76455eca30d0800000000000000
+      internalID: -3442212099521148369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchantedPixelGunPack_21
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 229
+        width: 49
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641298904d6f3b8e0800000000000000
+      internalID: -1678726845525581498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchantedPixelGunPack_22
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 231
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e230874c52ad7df40800000000000000
+      internalID: 5753306904733942574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchantedPixelGunPack_23
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 229
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d1da84decd1db20800000000000000
+      internalID: 3157547725448093009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchantedPixelGunPack_24
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 198
+        width: 46
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9295fc3d64798bcf0800000000000000
+      internalID: -236272649979864791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchantedPixelGunPack_25
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 198
+        width: 53
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03eea8085abb6d30800000000000000
+      internalID: 4425835946087211789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchantedPixelGunPack_26
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 198
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7c544aead0f29b0800000000000000
+      internalID: -5102844809055975448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchantedPixelGunPack_27
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 201
+        width: 64
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963e883f795c821c0800000000000000
+      internalID: -4528152168904465559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchantedPixelGunPack_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 169
+        width: 64
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0da0822b68a7f50800000000000000
+      internalID: 6879959480495952116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchantedPixelGunPack_29
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 170
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4249adccc7b20e4f0800000000000000
+      internalID: -801592918659132380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchantedPixelGunPack_30
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 168
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084ea46ece9cf79e0800000000000000
+      internalID: -1621355321516956544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchantedPixelGunPack_31
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 169
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0907f96ba527b4d0800000000000000
+      internalID: -3118982798783346417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchantedPixelGunPack_32
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 134
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d147618f46ce2f10800000000000000
+      internalID: 2246951308880200146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchantedPixelGunPack_33
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 136
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b477b388e24a29e80800000000000000
+      internalID: -8173289853962979509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchantedPixelGunPack_34
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 135
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba680377f451acf20800000000000000
+      internalID: 3443588296124434091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchantedPixelGunPack_35
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 133
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b3a4009c7ab1c90800000000000000
+      internalID: -7197975097686476009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchantedPixelGunPack_36
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 100
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296b8615c78abce00800000000000000
+      internalID: 1066130988698482322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchantedPixelGunPack_37
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 104
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9eb1b8552a7f2e0800000000000000
+      internalID: -2092025013600523800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchantedPixelGunPack_38
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 102
+        width: 54
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0393bff198597e30800000000000000
+      internalID: 4501726686616982282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchantedPixelGunPack_39
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 103
+        width: 57
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b288652eb75741480800000000000000
+      internalID: -8929382986230101973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchantedPixelGunPack_40
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 72
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8caa240b185dafb0800000000000000
+      internalID: -4634951568437105526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchantedPixelGunPack_41
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 72
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0699604d64db4840800000000000000
+      internalID: 5209490959681295886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchantedPixelGunPack_42
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 71
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7319e0c3280246770800000000000000
+      internalID: 8603036931909914935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchantedPixelGunPack_43
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 71
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20fbfadf216cdb50800000000000000
+      internalID: 6619272410493087787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchantedPixelGunPack_44
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 40
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f2e1a4067f34ac0800000000000000
+      internalID: -3871979261676081384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchantedPixelGunPack_45
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 40
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8615d982e57634fb0800000000000000
+      internalID: -4664771134919716504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchantedPixelGunPack_46
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 39
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d735c8ba0b2251f20800000000000000
+      internalID: 3392656036481225597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchantedPixelGunPack_47
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 41
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6798d8e2436209f60800000000000000
+      internalID: 8038967340417517942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchantedPixelGunPack_48
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 9
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4496e5a4e1c9a7a0800000000000000
+      internalID: -6365343410531429298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchantedPixelGunPack_49
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 8
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48725b4262274bb70800000000000000
+      internalID: 8913875070623229828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      EnchantedPixelGunPack_0: -687840027429935281
+      EnchantedPixelGunPack_1: 5571448978750367117
+      EnchantedPixelGunPack_10: 5296151488240208266
+      EnchantedPixelGunPack_11: -6841753954149536610
+      EnchantedPixelGunPack_12: -9043963642013356735
+      EnchantedPixelGunPack_13: -2601839604625598701
+      EnchantedPixelGunPack_14: 3018773512521622879
+      EnchantedPixelGunPack_15: -7569939867415342487
+      EnchantedPixelGunPack_16: -8070287623191416975
+      EnchantedPixelGunPack_17: -4139746632576913758
+      EnchantedPixelGunPack_18: -7191796265237450760
+      EnchantedPixelGunPack_19: 5258003009290231004
+      EnchantedPixelGunPack_2: -7699842097469605959
+      EnchantedPixelGunPack_20: -3442212099521148369
+      EnchantedPixelGunPack_21: -1678726845525581498
+      EnchantedPixelGunPack_22: 5753306904733942574
+      EnchantedPixelGunPack_23: 3157547725448093009
+      EnchantedPixelGunPack_24: -236272649979864791
+      EnchantedPixelGunPack_25: 4425835946087211789
+      EnchantedPixelGunPack_26: -5102844809055975448
+      EnchantedPixelGunPack_27: -4528152168904465559
+      EnchantedPixelGunPack_28: 6879959480495952116
+      EnchantedPixelGunPack_29: -801592918659132380
+      EnchantedPixelGunPack_3: -7073535190963566965
+      EnchantedPixelGunPack_30: -1621355321516956544
+      EnchantedPixelGunPack_31: -3118982798783346417
+      EnchantedPixelGunPack_32: 2246951308880200146
+      EnchantedPixelGunPack_33: -8173289853962979509
+      EnchantedPixelGunPack_34: 3443588296124434091
+      EnchantedPixelGunPack_35: -7197975097686476009
+      EnchantedPixelGunPack_36: 1066130988698482322
+      EnchantedPixelGunPack_37: -2092025013600523800
+      EnchantedPixelGunPack_38: 4501726686616982282
+      EnchantedPixelGunPack_39: -8929382986230101973
+      EnchantedPixelGunPack_4: -4768691444177880406
+      EnchantedPixelGunPack_40: -4634951568437105526
+      EnchantedPixelGunPack_41: 5209490959681295886
+      EnchantedPixelGunPack_42: 8603036931909914935
+      EnchantedPixelGunPack_43: 6619272410493087787
+      EnchantedPixelGunPack_44: -3871979261676081384
+      EnchantedPixelGunPack_45: -4664771134919716504
+      EnchantedPixelGunPack_46: 3392656036481225597
+      EnchantedPixelGunPack_47: 8038967340417517942
+      EnchantedPixelGunPack_48: -6365343410531429298
+      EnchantedPixelGunPack_49: 8913875070623229828
+      EnchantedPixelGunPack_5: -5469553786131416969
+      EnchantedPixelGunPack_6: 6472815803219316072
+      EnchantedPixelGunPack_7: 2459599212716859148
+      EnchantedPixelGunPack_8: 4122060348792234846
+      EnchantedPixelGunPack_9: 4454771785661729550
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1443 @@
+fileFormatVersion: 2
+guid: 5236649848ceec142ad9af4c52c1ef7f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6323401538281014398
+    second: FieryPixelGunPack_0
+  - first:
+      213: 8618836539768755780
+    second: FieryPixelGunPack_1
+  - first:
+      213: -7050232704364245658
+    second: FieryPixelGunPack_2
+  - first:
+      213: -3010630641203796500
+    second: FieryPixelGunPack_3
+  - first:
+      213: -9219376705421893810
+    second: FieryPixelGunPack_4
+  - first:
+      213: -1199294658456133138
+    second: FieryPixelGunPack_5
+  - first:
+      213: 8623485456422726275
+    second: FieryPixelGunPack_6
+  - first:
+      213: -926751593923312025
+    second: FieryPixelGunPack_7
+  - first:
+      213: 930567306244172262
+    second: FieryPixelGunPack_8
+  - first:
+      213: -4872366296693725710
+    second: FieryPixelGunPack_9
+  - first:
+      213: 401976796406729522
+    second: FieryPixelGunPack_10
+  - first:
+      213: -4841518364160082366
+    second: FieryPixelGunPack_11
+  - first:
+      213: -7410913659065583026
+    second: FieryPixelGunPack_12
+  - first:
+      213: 3653394249287406549
+    second: FieryPixelGunPack_13
+  - first:
+      213: -2112926401497812859
+    second: FieryPixelGunPack_14
+  - first:
+      213: 8125285612170277527
+    second: FieryPixelGunPack_15
+  - first:
+      213: 7694267841357181585
+    second: FieryPixelGunPack_16
+  - first:
+      213: 8947710466734718299
+    second: FieryPixelGunPack_17
+  - first:
+      213: -7290034671292158667
+    second: FieryPixelGunPack_18
+  - first:
+      213: -3668164062557571772
+    second: FieryPixelGunPack_19
+  - first:
+      213: -7901799815589449228
+    second: FieryPixelGunPack_20
+  - first:
+      213: -3878312277009758611
+    second: FieryPixelGunPack_21
+  - first:
+      213: 5465775127780990655
+    second: FieryPixelGunPack_22
+  - first:
+      213: -3267138627196200166
+    second: FieryPixelGunPack_23
+  - first:
+      213: 7934891549458952628
+    second: FieryPixelGunPack_24
+  - first:
+      213: 8528016546578039949
+    second: FieryPixelGunPack_25
+  - first:
+      213: 8938397905358938568
+    second: FieryPixelGunPack_26
+  - first:
+      213: 3794614881055983909
+    second: FieryPixelGunPack_27
+  - first:
+      213: -2319635490709740642
+    second: FieryPixelGunPack_28
+  - first:
+      213: -4383352752879183345
+    second: FieryPixelGunPack_29
+  - first:
+      213: -7556200019331440701
+    second: FieryPixelGunPack_30
+  - first:
+      213: 3993697820277862129
+    second: FieryPixelGunPack_31
+  - first:
+      213: -673755750119556775
+    second: FieryPixelGunPack_32
+  - first:
+      213: 2112960095405869423
+    second: FieryPixelGunPack_33
+  - first:
+      213: -4566263434289216105
+    second: FieryPixelGunPack_34
+  - first:
+      213: 4362214819901470565
+    second: FieryPixelGunPack_35
+  - first:
+      213: -6386577571475478432
+    second: FieryPixelGunPack_36
+  - first:
+      213: 181563626074124202
+    second: FieryPixelGunPack_37
+  - first:
+      213: -2554876103273265530
+    second: FieryPixelGunPack_38
+  - first:
+      213: 7321215780969011900
+    second: FieryPixelGunPack_39
+  - first:
+      213: -5447357728018432949
+    second: FieryPixelGunPack_40
+  - first:
+      213: 6719931795750024819
+    second: FieryPixelGunPack_41
+  - first:
+      213: -427142187846668893
+    second: FieryPixelGunPack_42
+  - first:
+      213: 1337359894406057697
+    second: FieryPixelGunPack_43
+  - first:
+      213: -9146132703418905549
+    second: FieryPixelGunPack_44
+  - first:
+      213: 2216905099298017232
+    second: FieryPixelGunPack_45
+  - first:
+      213: -8769880702148759790
+    second: FieryPixelGunPack_46
+  - first:
+      213: 7087130379298713663
+    second: FieryPixelGunPack_47
+  - first:
+      213: -2648928704612945728
+    second: FieryPixelGunPack_48
+  - first:
+      213: 3344387999273563950
+    second: FieryPixelGunPack_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FieryPixelGunPack_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 389
+        width: 75
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74066d323c31c750800000000000000
+      internalID: 6323401538281014398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FieryPixelGunPack_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 389
+        width: 79
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446d21a1b224c9770800000000000000
+      internalID: 8618836539768755780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FieryPixelGunPack_2
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 390
+        width: 77
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d078885ba882e90800000000000000
+      internalID: -7050232704364245658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FieryPixelGunPack_3
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 387
+        width: 57
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5242102671836d0800000000000000
+      internalID: -3010630641203796500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FieryPixelGunPack_4
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 358
+        width: 54
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f11d69bb13e0080800000000000000
+      internalID: -9219376705421893810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FieryPixelGunPack_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 358
+        width: 61
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1e2bdbcdf3b5fe0800000000000000
+      internalID: -1199294658456133138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FieryPixelGunPack_6
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 358
+        width: 91
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ae2db5556cca770800000000000000
+      internalID: 8623485456422726275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FieryPixelGunPack_7
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 358
+        width: 77
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7668c21e5548323f0800000000000000
+      internalID: -926751593923312025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FieryPixelGunPack_8
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 326
+        width: 83
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9a640e80a0aec00800000000000000
+      internalID: 930567306244172262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FieryPixelGunPack_9
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 327
+        width: 79
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f52cf50ba0e16cb0800000000000000
+      internalID: -4872366296693725710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FieryPixelGunPack_10
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 329
+        width: 62
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23bc5cd34cb149500800000000000000
+      internalID: 401976796406729522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FieryPixelGunPack_11
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 330
+        width: 44
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e35b203b87fccb0800000000000000
+      internalID: -4841518364160082366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FieryPixelGunPack_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 296
+        width: 63
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a3e42ba45272990800000000000000
+      internalID: -7410913659065583026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FieryPixelGunPack_13
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 295
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d31b3596b673b230800000000000000
+      internalID: 3653394249287406549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FieryPixelGunPack_14
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 296
+        width: 61
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580bd22f1a06da2e0800000000000000
+      internalID: -2112926401497812859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FieryPixelGunPack_15
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 295
+        width: 60
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7927004f630d2c070800000000000000
+      internalID: 8125285612170277527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FieryPixelGunPack_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 261
+        width: 63
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1927ec2f5d787ca60800000000000000
+      internalID: 7694267841357181585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FieryPixelGunPack_17
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 262
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d74c23347ac2c70800000000000000
+      internalID: 8947710466734718299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FieryPixelGunPack_18
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 262
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d6959371894da90800000000000000
+      internalID: -7290034671292158667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FieryPixelGunPack_19
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 262
+        width: 57
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445f6694830181dc0800000000000000
+      internalID: -3668164062557571772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FieryPixelGunPack_20
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 229
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f13b89eeea275290800000000000000
+      internalID: -7901799815589449228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FieryPixelGunPack_21
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 229
+        width: 49
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d660cc048877d2ac0800000000000000
+      internalID: -3878312277009758611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FieryPixelGunPack_22
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 231
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe1d8115855adb40800000000000000
+      internalID: 5465775127780990655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FieryPixelGunPack_23
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 229
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b53068abac8a2d0800000000000000
+      internalID: -3267138627196200166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FieryPixelGunPack_24
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 198
+        width: 46
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1ffb8c2d56e1e60800000000000000
+      internalID: 7934891549458952628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FieryPixelGunPack_25
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 198
+        width: 53
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d840071add9995670800000000000000
+      internalID: 8528016546578039949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FieryPixelGunPack_26
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 198
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1e30a89819b0c70800000000000000
+      internalID: 8938397905358938568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FieryPixelGunPack_27
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 201
+        width: 64
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529c0cc212e29a430800000000000000
+      internalID: 3794614881055983909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FieryPixelGunPack_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 169
+        width: 64
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e936bd7afcffecfd0800000000000000
+      internalID: -2319635490709740642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FieryPixelGunPack_29
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 170
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ad76f25e33b23c0800000000000000
+      internalID: -4383352752879183345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FieryPixelGunPack_30
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 168
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf13fbed1cf22790800000000000000
+      internalID: -7556200019331440701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FieryPixelGunPack_31
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 169
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fee9ed02077c6730800000000000000
+      internalID: 3993697820277862129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FieryPixelGunPack_32
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 134
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9593fb807b656a6f0800000000000000
+      internalID: -673755750119556775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FieryPixelGunPack_33
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 136
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f690e37030eb25d10800000000000000
+      internalID: 2112960095405869423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FieryPixelGunPack_34
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 135
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7950650899f51a0c0800000000000000
+      internalID: -4566263434289216105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FieryPixelGunPack_35
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 133
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567fb264443b98c30800000000000000
+      internalID: 4362214819901470565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FieryPixelGunPack_36
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 100
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0682ab949815e57a0800000000000000
+      internalID: -6386577571475478432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FieryPixelGunPack_37
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 104
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aafa74ce72b058200800000000000000
+      internalID: 181563626074124202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FieryPixelGunPack_38
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 102
+        width: 54
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686434b68b14b8cd0800000000000000
+      internalID: -2554876103273265530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FieryPixelGunPack_39
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 103
+        width: 57
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba54ac96fe2a9560800000000000000
+      internalID: 7321215780969011900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FieryPixelGunPack_40
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 72
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c7bf8f1091764b0800000000000000
+      internalID: -5447357728018432949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FieryPixelGunPack_41
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 72
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37678805d5ef14d50800000000000000
+      internalID: 6719931795750024819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FieryPixelGunPack_42
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 71
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ade0d8717c721af0800000000000000
+      internalID: -427142187846668893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FieryPixelGunPack_43
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 71
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee4de20db14f8210800000000000000
+      internalID: 1337359894406057697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FieryPixelGunPack_44
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 40
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c0228b3c8621180800000000000000
+      internalID: -9146132703418905549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FieryPixelGunPack_45
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 40
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df0960317704ce10800000000000000
+      internalID: 2216905099298017232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FieryPixelGunPack_46
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 39
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21faed957ff1b4680800000000000000
+      internalID: -8769880702148759790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FieryPixelGunPack_47
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 41
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30bafed78b8a5260800000000000000
+      internalID: 7087130379298713663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FieryPixelGunPack_48
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 9
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0b536b06d1d3bd0800000000000000
+      internalID: -2648928704612945728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FieryPixelGunPack_49
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 8
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27b7cf7a27a96e20800000000000000
+      internalID: 3344387999273563950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FieryPixelGunPack_0: 6323401538281014398
+      FieryPixelGunPack_1: 8618836539768755780
+      FieryPixelGunPack_10: 401976796406729522
+      FieryPixelGunPack_11: -4841518364160082366
+      FieryPixelGunPack_12: -7410913659065583026
+      FieryPixelGunPack_13: 3653394249287406549
+      FieryPixelGunPack_14: -2112926401497812859
+      FieryPixelGunPack_15: 8125285612170277527
+      FieryPixelGunPack_16: 7694267841357181585
+      FieryPixelGunPack_17: 8947710466734718299
+      FieryPixelGunPack_18: -7290034671292158667
+      FieryPixelGunPack_19: -3668164062557571772
+      FieryPixelGunPack_2: -7050232704364245658
+      FieryPixelGunPack_20: -7901799815589449228
+      FieryPixelGunPack_21: -3878312277009758611
+      FieryPixelGunPack_22: 5465775127780990655
+      FieryPixelGunPack_23: -3267138627196200166
+      FieryPixelGunPack_24: 7934891549458952628
+      FieryPixelGunPack_25: 8528016546578039949
+      FieryPixelGunPack_26: 8938397905358938568
+      FieryPixelGunPack_27: 3794614881055983909
+      FieryPixelGunPack_28: -2319635490709740642
+      FieryPixelGunPack_29: -4383352752879183345
+      FieryPixelGunPack_3: -3010630641203796500
+      FieryPixelGunPack_30: -7556200019331440701
+      FieryPixelGunPack_31: 3993697820277862129
+      FieryPixelGunPack_32: -673755750119556775
+      FieryPixelGunPack_33: 2112960095405869423
+      FieryPixelGunPack_34: -4566263434289216105
+      FieryPixelGunPack_35: 4362214819901470565
+      FieryPixelGunPack_36: -6386577571475478432
+      FieryPixelGunPack_37: 181563626074124202
+      FieryPixelGunPack_38: -2554876103273265530
+      FieryPixelGunPack_39: 7321215780969011900
+      FieryPixelGunPack_4: -9219376705421893810
+      FieryPixelGunPack_40: -5447357728018432949
+      FieryPixelGunPack_41: 6719931795750024819
+      FieryPixelGunPack_42: -427142187846668893
+      FieryPixelGunPack_43: 1337359894406057697
+      FieryPixelGunPack_44: -9146132703418905549
+      FieryPixelGunPack_45: 2216905099298017232
+      FieryPixelGunPack_46: -8769880702148759790
+      FieryPixelGunPack_47: 7087130379298713663
+      FieryPixelGunPack_48: -2648928704612945728
+      FieryPixelGunPack_49: 3344387999273563950
+      FieryPixelGunPack_5: -1199294658456133138
+      FieryPixelGunPack_6: 8623485456422726275
+      FieryPixelGunPack_7: -926751593923312025
+      FieryPixelGunPack_8: 930567306244172262
+      FieryPixelGunPack_9: -4872366296693725710
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
